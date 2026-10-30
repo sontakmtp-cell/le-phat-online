@@ -1,0 +1,58 @@
+[
+  {
+    "id": "decision-20261029-01",
+    "recorded_at": "2026-10-29T21:16:50+07:00",
+    "stage": "01-resource-audit",
+    "decision": "Người dùng xác nhận bản kiểm kê nguồn lực và cho phép sang Bước 02; bổ sung nhóm trẻ và dân văn phòng.",
+    "evidence": "Xác nhận trong hội thoại này."
+  },
+  {
+    "id": "decision-20261029-02",
+    "recorded_at": "2026-10-29T21:20:24+07:00",
+    "stage": "02-niche-positioning",
+    "decision": "Ba nhóm khách hàng ngang hàng: giới trẻ/dân văn phòng; Phật tử từ xa; người quan tâm tử vi và văn hóa tâm linh. Không phân nhóm chính/phụ.",
+    "evidence": "Người dùng trả lời rõ “Xếp ngang hàng” cho câu hỏi lựa chọn nhóm ưu tiên."
+  },
+  {
+    "id": "decision-20261029-03",
+    "recorded_at": "2026-10-29T21:22:22+07:00",
+    "stage": "03-value-proposition",
+    "decision": "Xác nhận giá trị trò chơi kết hợp hài hòa ba trụ cột: thư giãn, sinh hoạt chùa, khám phá tử vi/văn hóa tâm linh; ba nhóm khách hàng vẫn ngang hàng.",
+    "evidence": "Người dùng chọn: 'Tao muốn kết hợp hài hòa cả ba giá trị trong game.'"
+  },
+  {
+    "id": "decision-20261029-04",
+    "recorded_at": "2026-10-29T21:31:41+07:00",
+    "stage": "04-business-model",
+    "decision": "Người dùng chọn chơi miễn phí; vật phẩm/hoạt động cơ bản miễn phí; xin xăm, lập lá số và luận sơ bộ miễn phí; luận chi tiết có phí; thắp hương/cúng dường ảo dùng vật phẩm tiêu hao; có Phước tăng/giảm theo hành vi và vắng mặt; ngoại hình thế giới đồng nhất, thời trang hiện trong hồ sơ.",
+    "evidence": "Người dùng xác nhận trực tiếp trong hội thoại; các thay đổi cơ chế Phước và ý tưởng gameplay bổ sung vẫn là đề xuất, chưa chốt."
+  },
+  {
+    "id": "decision-20261029-05",
+    "recorded_at": "2026-10-29T21:38:54+07:00",
+    "stage": "04-business-model",
+    "decision": "Xác nhận tiếp tục theo phương án Phước tích lũy không giảm chỉ vì offline; tách Duyên lành có thể giảm. Chốt mô hình sản phẩm cơ bản miễn phí, luận giải tử vi chi tiết trả phí để sang bước lập MVP; giá/chi phí/nhu cầu mua vẫn chưa biết.",
+    "evidence": "Người dùng trả lời “Ok tiếp tục” sau đề xuất điều chỉnh Phước và chuyển sang bước kế tiếp."
+  },
+  {
+    "id": "decision-20261029-06",
+    "recorded_at": "2026-10-29T21:45:32+07:00",
+    "stage": "05-mvp-design",
+    "decision": "Người dùng phê duyệt chuyển sang Bước 06 với phạm vi MVP Android nhỏ (15 người, ba nhóm ngang hàng), ngân sách thử 4 triệu, giữ lại 6 triệu. Kênh Facebook của Bước 06 vẫn chỉ là đề xuất.",
+    "evidence": "Người dùng trả lời “Ok tiếp” cho đề xuất MVP Android 15 người."
+  },
+  {
+    "id": "decision-20261029-07",
+    "recorded_at": "2026-10-29T21:48:26+07:00",
+    "stage": "06-conversion-loop",
+    "decision": "Facebook và TikTok là hai kênh tuyển 15 tester Android đồng thời, chung form, ghi riêng nguồn; người dùng xác nhận chuyển tiếp sau bước kênh.",
+    "evidence": "Người dùng nói: “Cả facebook và tiktok luôn”."
+  },
+  {
+    "id": "decision-20261030-08",
+    "recorded_at": "2026-10-30T07:14:13+07:00",
+    "stage": "execution",
+    "decision": "Phê duyệt thêm ba tính năng tinh gọn vào MVP hiện tại: (1) tình huống mèo chùa trong quét lá, (2) một chế độ tịnh tâm rảnh tay 15 phút, (3) chậu sen bốn giai đoạn trong bảy ngày. Giữ ngân sách 4 triệu, quy mô 15 tester, ngưỡng D7 đã phê duyệt; các phần còn lại của review chưa chốt triển khai.",
+    "evidence": "Người dùng phản hồi: “ừ chốt” sau câu hỏi xác nhận đúng ba bổ sung."
+  }
+]

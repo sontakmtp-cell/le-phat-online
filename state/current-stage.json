@@ -1,0 +1,15 @@
+{
+  "numbering_version": 2,
+  "stage": "execution",
+  "status": "in_progress",
+  "next_stage": null,
+  "summary": "Đang execution. Người dùng xác nhận đưa 3 bổ sung từ review vào MVP: mèo chùa trong công quả, Tịnh tâm rảnh tay v0 một chế độ 15 phút, sen 7 ngày; đã cập nhật spec và thước đo, chưa viết game hoặc thử tester.",
+  "updated_at": "2026-10-30T07:14:13+07:00",
+  "skipped_stages": [],
+  "open_questions": [
+    "Điền thông tin liên hệ thật và thời gian lưu dữ liệu vào form trước khi phát.",
+    "Chuẩn bị cảnh render/gameplay để dựng video mời dùng thử; khi chưa có gameplay, ghi rõ concept.",
+    "Chưa có project Godot 4/Android build; bước kế tiếp là dựng scene nguyên mẫu và kiểm thử Cổng A trên thiết bị thật."
+  ],
+  "stale_outputs": []
+}

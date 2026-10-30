@@ -1,0 +1,52 @@
+[
+  {
+    "id": "assumption-01",
+    "statement": "Sự quan tâm livestream/chùa online có thể chuyển thành nhu cầu chơi chùa 3D",
+    "status": "unverified",
+    "evidence": [
+      "https://tienphong.vn/bao-hieu-vu-lan-theo-kieu-gen-z-post1776033.tpo",
+      "https://ngaynay.vn/phatgiao/phia-sau-cau-chuyen-nguoi-tre-len-chua-mec-phat-post177590.html",
+      "https://bvhttdl.gov.vn/Pages/chi-tiet.aspx?url=/xu-huong-du-lich-nam-2026-huong-ung-nhung-hanh-trinh-mang-dam-tinh-ca-nhan-20251209164732147.htm"
+    ],
+    "updated_at": "2026-10-29T21:16:50+07:00"
+  },
+  {
+    "id": "assumption-02",
+    "statement": "Nhóm trẻ/dân văn phòng có thể quay lại trò chơi thư giãn nhiều lần",
+    "status": "unverified",
+    "evidence": [],
+    "updated_at": "2026-10-29T21:16:50+07:00"
+  },
+  {
+    "id": "assumption-03",
+    "statement": "Có thể vận hành thử nghiệm online trong ngân sách 10 triệu đồng",
+    "status": "unverified",
+    "evidence": [],
+    "updated_at": "2026-10-29T21:16:50+07:00"
+  },
+  {
+    "id": "assumption-04",
+    "statement": "Một game chùa 3D có ba hoạt động giá trị hài hòa sẽ hấp dẫn và giữ chân được cả ba nhóm khách hàng ngang hàng.",
+    "status": "unverified",
+    "evidence": [
+      "Người sáng lập chọn định hướng; chưa có kết quả thử nghiệm người dùng."
+    ],
+    "updated_at": "2026-10-29T21:22:22+07:00"
+  },
+  {
+    "id": "assumption-05",
+    "statement": "Người dùng sẵn sàng trả phí theo từng lần để đọc luận giải tử vi chi tiết trong game.",
+    "status": "unverified",
+    "evidence": [
+      "Mô hình do người sáng lập lựa chọn; chưa có doanh thu hay thử nghiệm ý định mua."
+    ],
+    "updated_at": "2026-10-29T21:31:41+07:00"
+  },
+  {
+    "id": "assumption-06",
+    "statement": "Có thể cung cấp luận giải chi tiết với chất lượng nhất quán và lợi nhuận dương sau phí nền tảng, AI và vận hành.",
+    "status": "unverified",
+    "evidence": [],
+    "updated_at": "2026-10-29T21:31:41+07:00"
+  }
+]

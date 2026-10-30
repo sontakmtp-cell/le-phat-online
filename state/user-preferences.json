@@ -1,0 +1,11 @@
+{
+  "language": "vi",
+  "tone": "thân mật, xưng tao/mày",
+  "brevity": "ngắn gọn",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "mode": "guided",
+  "constraints": [
+    "AI agents hỗ trợ code",
+    "không thuê người ban đầu"
+  ]
+}

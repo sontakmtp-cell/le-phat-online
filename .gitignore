@@ -1,0 +1,17 @@
+# Dữ liệu làm việc nội bộ của trợ lý AI (nhật ký phiên, ghi nhớ riêng)
+.workbuddy-ai/
+
+# Hệ điều hành
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Trình soạn thảo
+.vscode/
+.idea/
+*.swp
+
+# Tệp tạm
+*.tmp
+*.log
+~$*

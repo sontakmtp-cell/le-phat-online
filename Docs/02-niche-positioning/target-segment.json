@@ -1,0 +1,80 @@
+{
+  "status": "confirmed_segment_groups",
+  "segment": "Ba nhóm ngang hàng: (1) giới trẻ và dân văn phòng tìm thư giãn; (2) Phật tử muốn sinh hoạt chùa từ xa; (3) người quan tâm tử vi và văn hóa tâm linh",
+  "core_pain": "Giả thuyết nhu cầu chung: thiếu không gian số 3D đẹp, yên tĩnh, có sinh hoạt chùa và trải nghiệm văn hóa tâm linh cho người dùng lựa chọn",
+  "timing": "Quan tâm chùa online và trải nghiệm tĩnh lặng gia tăng nhưng nhu cầu game chưa được chứng minh",
+  "rings_activated": [
+    "market_shift",
+    "technology_media_leverage",
+    "founder_resources"
+  ],
+  "opportunity_score": {
+    "pain": null,
+    "leverage": null,
+    "window": null,
+    "resource_fit": null,
+    "standardization": null,
+    "cashflow": null,
+    "total": null
+  },
+  "why_viable": "Giả thuyết: lợi thế thiết kế 3D, am hiểu tâm linh, dễ tiếp cận mobile hơn đi chùa thực",
+  "why_big_players_wont": "Chưa có bằng chứng doanh nghiệp lớn không tham gia; phân khúc văn hóa chùa Việt chuyên biệt có thể không phải trọng tâm nhưng chưa kiểm chứng",
+  "evidence": [
+    "https://tienphong.vn/bao-hieu-vu-lan-theo-kieu-gen-z-post1776033.tpo",
+    "https://ngaynay.vn/phatgiao/phia-sau-cau-chuyen-nguoi-tre-len-chua-mec-phat-post177590.html",
+    "https://bvhttdl.gov.vn/Pages/chi-tiet.aspx?url=/xu-huong-du-lich-nam-2026-huong-ung-nhung-hanh-trinh-mang-dam-tinh-ca-nhan-20251209164732147.htm",
+    "https://play.google.com/store/apps/details?hl=vi&id=com.tgc.sky.vn.android",
+    "https://play.google.com/store/apps/details?id=com.nexus.pagodaonline",
+    "https://vietnamnet.vn/en/digitizing-buddhist-heritage-raises-concerns-over-virtual-practice-2566024.html"
+  ],
+  "unknowns": [
+    "Nhu cầu thực tế và tần suất quay lại ở từng nhóm",
+    "Khả năng chi trả của từng nhóm",
+    "Chi phí server và marketing",
+    "Giới hạn hợp lý giữa giáo lý Phật giáo, văn hóa dân gian và tử vi"
+  ],
+  "segments": [
+    {
+      "name": "Giới trẻ và dân văn phòng",
+      "priority": "equal"
+    },
+    {
+      "name": "Phật tử và người đi chùa từ xa",
+      "priority": "equal"
+    },
+    {
+      "name": "Người quan tâm tử vi, xin xăm và văn hóa tâm linh",
+      "priority": "equal"
+    }
+  ],
+  "segment_opportunity_scores": {
+    "gioi_tre_van_phong": {
+      "pain": 3,
+      "leverage": 4,
+      "window": 4,
+      "resource_fit": 4,
+      "standardization": 4,
+      "cashflow": null,
+      "total": null
+    },
+    "phat_tu_tu_xa": {
+      "pain": 3,
+      "leverage": 4,
+      "window": 4,
+      "resource_fit": 4,
+      "standardization": 3,
+      "cashflow": null,
+      "total": null
+    },
+    "quan_tam_tu_vi_tam_linh": {
+      "pain": 2,
+      "leverage": 4,
+      "window": 3,
+      "resource_fit": 5,
+      "standardization": 3,
+      "cashflow": null,
+      "total": null
+    }
+  },
+  "user_confirmed": "Ba nhóm khách hàng ngang hàng; không có khách chính/phụ."
+}
